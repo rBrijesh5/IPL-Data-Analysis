@@ -38,19 +38,19 @@ Files Used:
 ## Analysis Performed
 
 ### 1. Most Successful Team
-![Most Successful Team](images/most_successful_team.png)
+![Most Successful Team](images/most_successful_teams.png)
 
 ### 2. Toss Winner Analysis
 ![Toss Winner Analysis](images/toss_winner_analysis.png)
 
 ### 3. Most Player of the Match Awards
-![Player of the Match](images/player_of_match.png)
+![Player of the Match](images/player_of_match_awards.png)
 
 ### 4. Top Run Scorers
 ![Top Run Scorers](images/top_run_scorers.png)
 
 ### 5. Runs vs Balls Faced
-![Runs vs Balls](images/runs_vs_balls.png)
+![Runs vs Balls](images/runs_vs_balls_faced.png)
 
 ### 6. Most Sixes
 ![Most Sixes](images/most_sixes.png)
@@ -65,16 +65,16 @@ Files Used:
 ![Top Wicket Takers](images/top_wicket_takers.png)
 
 ### 10. Best Economy Rate
-![Economy Rate](images/economy_rate.png)
+![Economy Rate](images/best_economy_rate.png)
 
 ### 11. Venue Analysis
 ![Venue Analysis](images/venue_analysis.png)
 
 ### 12. Impact of Toss on Match Result
-![Impact of Toss](images/impact_of_toss.png)
+![Impact of Toss](images/toss_match_result_and_batting_first_vs_chasing.png)
 
 ### 13. Total Runs Scored Match by Match
-![Total Runs](images/total_runs_matchwise.png)
+![Total Runs](images/total_runs_per_match.png)
 
 ---
 
