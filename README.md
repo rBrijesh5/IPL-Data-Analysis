@@ -40,8 +40,8 @@ Files Used:
 ### 1. Most Successful Team
 ![Most Successful Team](images/most_successful_teams.png)
 
-### 2. Toss Winner Analysis
-![Toss Winner Analysis](images/toss_winner_analysis.png)
+### 2. Impact of Toss on Match Result
+![Impact of Toss](images/toss_match_result_and_batting_first_vs_chasing.png)
 
 ### 3. Most Player of the Match Awards
 ![Player of the Match](images/player_of_match_awards.png)
@@ -70,10 +70,7 @@ Files Used:
 ### 11. Venue Analysis
 ![Venue Analysis](images/venue_analysis.png)
 
-### 12. Impact of Toss on Match Result
-![Impact of Toss](images/toss_match_result_and_batting_first_vs_chasing.png)
-
-### 13. Total Runs Scored Match by Match
+### 12. Total Runs Scored Match by Match
 ![Total Runs](images/total_runs_per_match.png)
 
 ---
